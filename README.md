@@ -1,13 +1,13 @@
 # Tic-Tac-Toe-Game
 **Overview**
-This project is a simple, interactive Tic-Tac-Toe game built using JavaScript, HTML, and CSS. It allows two players to play the classic game of Tic-Tac-Toe directly in their browser. The game features a user-friendly interface, responsive design, and provides a fun way to pass the time.
+This project is a simple, interactive Tic-Tac-Toe game built using JavaScript, HTML, and CSS. It allows two players to play the classic game of Tic-Tac-Toe directly in their browser. The game features a user-friendly interface, and responsive design, and provides a fun way to pass the time.
 
 **Features**
-Two-Player Mode: Play against a friend on the same device.
-Dynamic UI: Interactive game board that updates in real-time with each move.
-Win Detection: Automatically detects and highlights the winning combination.
-Reset Functionality: Easily reset the game to start a new round.
-Responsive Design: Optimized for various screen sizes, ensuring a smooth experience on both desktop and mobile devices.
+1. Two-Player Mode: Play against a friend on the same device.
+2. Dynamic UI: Interactive game board that updates in real time with each move.
+3. Win Detection: Automatically detects and highlights the winning combination.
+4. Reset Functionality: Set the game to start a new round.
+5. Responsive Design: Optimized for various screen sizes, ensuring a smooth experience on both desktop and mobile devices.
 
 **How to Play**
 Player 1 uses "X" and Player 2 uses "O".
