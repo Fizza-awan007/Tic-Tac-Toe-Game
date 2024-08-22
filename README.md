@@ -16,6 +16,6 @@ The first player to get three of their symbols in a row (horizontally, verticall
 Click the "Reset" button to start a new game.
 
 **Technologies Used**
-JavaScript: Core logic and game mechanics.
-HTML5: Structure of the game interface.
-CSS3: Styling and layout of the game.
+1. JavaScript: Core logic and game mechanics.
+2. HTML5: Structure of the game interface.
+3. CSS3: Styling and layout of the game.
